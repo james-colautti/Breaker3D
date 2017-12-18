@@ -6,6 +6,6 @@ They must launch and repeatedly deflect a ball to destroy the surrounding random
 <br><br>
 Screenshots:
 <br>
-<img src="https://github.com/james-colautti/TombSurvivor/blob/master/examples/preview1.png" height="600" alt="World Generation">
-<img src="https://github.com/james-colautti/TombSurvivor/blob/master/examples/preview2.png" height="600" alt="In Game">
-<img src="https://github.com/james-colautti/TombSurvivor/blob/master/examples/preview3.png" height="600" alt="Ball Tracking">
+<img src="https://github.com/james-colautti/Breaker3D/blob/master/examples/preview1.png" height="600" alt="World Generation">
+<img src="https://github.com/james-colautti/Breaker3D/blob/master/examples/preview2.png" height="600" alt="In Game">
+<img src="https://github.com/james-colautti/Breaker3D/blob/master/examples/preview3.png" height="600" alt="Ball Tracking">
