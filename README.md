@@ -1,5 +1,5 @@
 # Breaker3D
-Breaker3D is a 360 degree first person proof of concept game inpired by breakout.
+Breaker3D is a 360 degree first person proof of concept game inpired by the classic game Breakout.
 <br>
 The player controls a platform rotating around a central core.
 They must launch and repeatedly deflect a ball to destroy the surrounding randomly generated array of blocks.
